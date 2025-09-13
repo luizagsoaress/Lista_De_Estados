@@ -1,0 +1,61 @@
+.body, html{
+  margin: 0;
+  padding: 0;
+}
+
+.container-fluid {
+  margin: 0;
+  padding: 0;
+}
+
+#account-logo img {
+  border-radius: 50%; 
+  width: 70px;
+  height: 70px;
+}
+
+#account-logo {
+  text-decoration: none;
+  color: white;
+}
+
+#sair img {
+  width: 20px;
+  height: 20px;
+  
+}
+
+#sobre img {
+  width: 25px;
+  height: 25px;
+}
+
+#deletar img {
+  width: 20px;
+  height: 20px;
+}
+
+#btn-inverse img {
+  width: 80px;
+  height: 80px;
+  background-color:rgb(250, 146, 11);
+  border-radius: 40px;
+}
+
+#btn-mapa img {
+  width: 90px;
+  height: 55px;
+  border-radius: 40px;
+}
+
+#btn-plus img {
+  width: 80px;
+  height: 80px;
+  background-color:rgb(250, 146, 11);
+  border-radius: 40px;
+}
+
+.responsive-label {
+  font-size: clamp(20px, 5vw, 24px);
+}
+
