@@ -1,3 +1,5 @@
+# Lista_De_Estados
+
 Este é um projeto full-stack que combina backend em Java/Spring Boot, listas em C, autenticação Firebase e frontend em HTML5, CSS, Bootstrap e JS. O site apresenta informações básicas sobre os estados do Brasil, incluindo economia, educação, território, trabalho e rendimento, população, capital e governador. Os dados foram obtidos do IBGE e formatados em JSON.
 
 ## Tecnologias
